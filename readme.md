@@ -49,9 +49,6 @@ A curated list of awesome Beepy (Beepberry) resources, tools, projects, and more
 
 [Curated articles that provide insights, tutorials, and guides on using Beepy]
 
-### Books
-
-[Recommendations for books that cover Beepy hardware, software, and project ideas]
 
 ### Tutorials
 
@@ -59,11 +56,7 @@ A curated list of awesome Beepy (Beepberry) resources, tools, projects, and more
 
 ## Community
 
-[Links to Beepy forums, social media accounts, and other community platforms]
-
-### Contributing
-
-[Guidelines for contributing to the Awesome Beepy list]
+[Discord Server](https://discord.gg/S55T6TMT2G)
 
 
 
@@ -81,8 +74,11 @@ Who else should we be following!?
 
 ## Contributing
 
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+Interested in contributing? Your input is welcome! Check out the [guidelines](contributing.md) and join our community of [contributors](https://github.com/samxplogs/awesome-beepy/graphs/contributors). Every contribution counts!
 
-### Contributors
 
-[Thanks goes to these contributors](https://github.com/samxplogs/awesome-beepy/graphs/contributors)!
+
+
+
+
+
