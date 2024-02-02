@@ -36,17 +36,17 @@ Build by SQFMI x Beepy
 
 [Adapted descriptions of OS Images suitable for Beepy, similar to those listed for Raspberry Pi]
 
-## Hardware
-
-[BeepSensors - GPS, IMU, MAG, BARO, and Buzzer](https://github.com/57Bravo/BeepSensors) 
 
 ## Tools
 
-List of tools specifically designed for or compatible with Beepy
+List of projects specifically designed for the Beepy
 
-
+[BeepSensors - GPS, IMU, MAG, BARO, and Buzzer](https://github.com/57Bravo/BeepSensors) 
 
 [🔋 beepy-battery - simple script to read a corrected battery percentage on the beepy](https://github.com/strafplanet/beepy-battery)
+
+
+[Beeper Client](https://github.com/beeper/beepycli)
 
 
 
