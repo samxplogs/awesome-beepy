@@ -43,7 +43,10 @@ A curated list of awesome Beepy (Beepberry) resources, tools, projects, and more
 
 ### Useful Apps
 
-[List of apps that can be used with Beepy, categorized by platform if necessary]
+Compilation of apps that display well on the Beepyscreen.
+
+[⛅ wttr.in is a console-oriented weather forecast ](https://github.com/chubin/wttr.in)
+
 
 ### Articles
 
@@ -52,7 +55,9 @@ A curated list of awesome Beepy (Beepberry) resources, tools, projects, and more
 
 ### Tutorials
 
-[Step-by-step tutorials for setting up, programming, and creating projects with Beepy]
+Step-by-step tutorials for setting up, programming, and creating projects with Beepy
+
+[Tmux configuration tailored for Beepy ](https://github.com/youngoris/beepy-tmux)
 
 ## Community
 
