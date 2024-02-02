@@ -32,10 +32,10 @@ Build by SQFMI x Beepy
 
 [Documentation](https://github.com/sqfmi/beepy-docs)
 
-## OS Images
+<!-- ## OS Images
 
 [Adapted descriptions of OS Images suitable for Beepy, similar to those listed for Raspberry Pi]
-
+-->
 
 ## Tools
 
@@ -48,11 +48,6 @@ List of projects specifically designed for the Beepy
 
 [Beeper Client](https://github.com/beeper/beepycli)
 
-
-
-## Projects
-
-Browsing [telehack.com](telehack.com) using telnet. Telehack is an online simulation of a stylized interface for ARPANET and Usenet
 
 ## Resources
 
@@ -68,9 +63,7 @@ Compilation of apps that display well on the Beepyscreen.
 
 [📫 Aerc - email client for your terminal](https://github.com/jvsg/aerc)
 
-
-
-
+📺 Browsing [telehack.com](telehack.com) using telnet. Telehack is an online simulation of a stylized interface for ARPANET and Usenet
 
 [📡 retrogram-rtlsdr - Spectrum analyzer on your terminal](https://github.com/r4d10n/retrogram-rtlsdr)
 
@@ -124,13 +117,13 @@ Step-by-step tutorials for setting up, programming, and creating projects with B
 
 
 
-
+<!--
 
 ## Follow
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) 
 
-Who else should we be following!?
+Who else should we be following!? -->
 
 ## Contributing
 
