@@ -23,26 +23,32 @@ A curated list of awesome Beepy (Beepberry) resources, tools, projects, and more
 - [Projects](#projects)
 - [Resources](#resources)
 
-## Models
+## Official Resources
+Build by SQFMI x Beepy
 
-[Insert Beepy models here, similar to the Raspberry Pi models but adapted to your specific hardware]
+[Hardware](https://github.com/sqfmi/beepy-hardware)
+
+[Image](https://github.com/beeper/beepy)
+
+[Documentation](https://github.com/sqfmi/beepy-docs)
 
 ## OS Images
 
 [Adapted descriptions of OS Images suitable for Beepy, similar to those listed for Raspberry Pi]
 
+## Hardware
+
+[BeepSensors - GPS, IMU, MAG, BARO, and Buzzer](https://github.com/57Bravo/BeepSensors) 
+
 ## Tools
 
 List of tools specifically designed for or compatible with Beepy
 
-[🔋 beepy-battery - simple script to read a corrected battery percentage on the beepy](https://github.com/strafplanet/beepy-battery)
-[]()
-[]()
-[]()
-[]()
-[]()
 
-https://github.com/strafplanet/beepy-battery
+
+[🔋 beepy-battery - simple script to read a corrected battery percentage on the beepy](https://github.com/strafplanet/beepy-battery)
+
+
 
 ## Projects
 
@@ -60,11 +66,15 @@ Compilation of apps that display well on the Beepyscreen.
 
 [📰 newsboat - RSS/Atom feed reader for text terminals](https://github.com/newsboat/newsboat)
 
+[📫 Aerc - email client for your terminal](https://github.com/jvsg/aerc)
+
+
+
 
 
 [📡 retrogram-rtlsdr - Spectrum analyzer on your terminal](https://github.com/r4d10n/retrogram-rtlsdr)
 
-[]()
+
 []()
 []()
 []()
