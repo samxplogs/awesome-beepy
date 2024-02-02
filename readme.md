@@ -1,30 +1,88 @@
-# Awesome List Template
+<div align="center">
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
-CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and
-[awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the
-beginning.
+<!-- image banner -->
+<hr>
 
-## Usage
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. run a find & replace of `samxplogs/awesome-beepy` with your details
-3. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image.
-4. choose a CI template
-   - GitHub Action: move config folder from `repo-root/ci/.github/` to
-     `repo-root/.github`
-   - Circle CI: move config folder from `repo-root/ci/.circleci/*` to
-     `repo-root/.circleci/*`
-   - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the
-     `repo-root/.gitlab-ci.yml`
-5. run a find & replace `readme-template.md` to `readme.md` in the CI you chose
-5. delete this file
-6. rename `readme-template.md` file to `readme.md`
+
+<a href="https://github.com/samxplogs/awesome-beepy">
+  <img src="https://beepy.sqfmi.com/assets/images/beepy-diagram-full-9a5580a118de8657fb0fc655868b6dde.svg" align="center" alt="beepy-diagram-full" title="Beepy Diagram Full">
+</a>
+
+<hr>
+
+# Awesome Beepy (Beepberry)
+
+A curated list of awesome Beepy (Beepberry) resources, tools, projects, and more. Beepy, affectionately known as Beepberry, is a versatile and innovative platform for [insert purpose or description here].
+
+## Contents
+
+- [Models](#models)
+- [OS Images](#os-images)
+- [Tools](#tools)
+- [Projects](#projects)
+- [Resources](#resources)
+
+## Models
+
+[Insert Beepy models here, similar to the Raspberry Pi models but adapted to your specific hardware]
+
+## OS Images
+
+[Adapted descriptions of OS Images suitable for Beepy, similar to those listed for Raspberry Pi]
+
+## Tools
+
+[List of tools specifically designed for or compatible with Beepy]
+
+## Projects
+
+[Collection of beginner to advanced projects that can be realized with Beepy]
+
+## Resources
+
+### Useful Apps
+
+[List of apps that can be used with Beepy, categorized by platform if necessary]
+
+### Articles
+
+[Curated articles that provide insights, tutorials, and guides on using Beepy]
+
+### Books
+
+[Recommendations for books that cover Beepy hardware, software, and project ideas]
+
+### Tutorials
+
+[Step-by-step tutorials for setting up, programming, and creating projects with Beepy]
+
+## Community
+
+[Links to Beepy forums, social media accounts, and other community platforms]
+
+### Contributing
+
+[Guidelines for contributing to the Awesome Beepy list]
+
+
+
+
+
+
+
+
+
+## Follow
+
+<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+
+Who else should we be following!?
 
 ## Contributing
 
-Contributions welcome!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/samxplogs/awesome-beepy/graphs/contributors)!
