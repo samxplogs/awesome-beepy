@@ -33,11 +33,20 @@ A curated list of awesome Beepy (Beepberry) resources, tools, projects, and more
 
 ## Tools
 
-[List of tools specifically designed for or compatible with Beepy]
+List of tools specifically designed for or compatible with Beepy
+
+[🔋 beepy-battery - simple script to read a corrected battery percentage on the beepy](https://github.com/strafplanet/beepy-battery)
+[]()
+[]()
+[]()
+[]()
+[]()
+
+https://github.com/strafplanet/beepy-battery
 
 ## Projects
 
-[Collection of beginner to advanced projects that can be realized with Beepy]
+Browsing [telehack.com](telehack.com) using telnet. Telehack is an online simulation of a stylized interface for ARPANET and Usenet
 
 ## Resources
 
@@ -45,13 +54,49 @@ A curated list of awesome Beepy (Beepberry) resources, tools, projects, and more
 
 Compilation of apps that display well on the Beepyscreen.
 
-[⛅ wttr.in is a console-oriented weather forecast ](https://github.com/chubin/wttr.in)
+[⛅ wttr.in - console-oriented weather forecast ](https://github.com/chubin/wttr.in)
+
+[📈 tstock - Generate stock charts in the terminal](https://github.com/Gbox4/tstock)
+
+[📰 newsboat - RSS/Atom feed reader for text terminals](https://github.com/newsboat/newsboat)
+
+
+
+[📡 retrogram-rtlsdr - Spectrum analyzer on your terminal](https://github.com/r4d10n/retrogram-rtlsdr)
+
+[]()
+[]()
+[]()
+[]()
+
+
+
+[📖 epy - CLI Ebook Reader](https://github.com/wustho/epy)
+
+### Games
+
+Compilation of games that display well on the Beepyscreen.
+
+[🕹️ A collection of games for the Beepy](https://github.com/chamik/beepy-games?tab=readme-ov-file)
+
+[🐍 snake implementation written in pure BASH v5.1+](https://github.com/wick3dr0se/snake)
+
+[⌨️ mitype - Typing Speed Test in Terminal](https://github.com/Mithil467/mitype)
+
+[🚗 moon-buggy - drive some car across the moon](https://github.com/seehuhn/moon-buggy)
+
+
+
 
 
 ### Articles
 
-[Curated articles that provide insights, tutorials, and guides on using Beepy]
+Curated articles that provide insights, tutorials, and guides on using Beepy
 
+
+[HACKADAY](https://hackaday.com/2023/08/07/review-beepy-a-palm-sized-linux-hacking-playground/)
+
+[The Verge](https://www.theverge.com/23727218/beepberry-cyberdeck-mini-computer-raspberry-pi-beeper-messenger)
 
 ### Tutorials
 
