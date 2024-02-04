@@ -93,6 +93,16 @@ Compilation of apps that display well on the Beepyscreen.
 
 ### CyberSecurity
 
+[zero-hid - HID python library for emulating mouse and keyboard](https://github.com/abdallahnatsheh/zero-hid
+)
+
+[bettercap - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.](https://github.com/bettercap/bettercap)
+
+[evillimiter - tool to monitor, analyze and limit the bandwidth (upload/download) of devices on your local network without physical or administrative access.](https://github.com/bitbrute/evillimiter)
+
+[hcxtools - Small set of tools convert packets from captures ](https://github.com/ZerBea/hcxtools)
+
+
 ### Games
 
 Compilation of games that display well on the Beepyscreen.
