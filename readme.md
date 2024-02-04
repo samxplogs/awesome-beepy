@@ -6,7 +6,7 @@
 
 
 <a href="https://github.com/samxplogs/awesome-beepy">
-  <img src="https://beepy.sqfmi.com/assets/images/beepy-diagram-full-9a5580a118de8657fb0fc655868b6dde.svg" align="center" alt="beepy-diagram-full" title="Beepy Diagram Full">
+  <img src="https://pbs.twimg.com/media/FxeJng-WcAEHknK?format=jpg&name=4096x4096" align="center" alt="beepy-diagram-full" title="Beepy Shipping">
 </a>
 
 <hr>
@@ -49,6 +49,8 @@ List of projects specifically designed for the Beepy
 [Beeper Client](https://github.com/beeper/beepycli)
 
 
+[Beepy keyboard driver and firmware interface](https://github.com/ardangelo/beepberry-keyboard-driver)
+
 ## Resources
 
 ### Useful Apps
@@ -67,14 +69,29 @@ Compilation of apps that display well on the Beepyscreen.
 
 [📡 retrogram-rtlsdr - Spectrum analyzer on your terminal](https://github.com/r4d10n/retrogram-rtlsdr)
 
-
-[]()
-[]()
-[]()
-
-
-
 [📖 epy - CLI Ebook Reader](https://github.com/wustho/epy)
+
+[gomuks - terminal Matrix client](https://github.com/tulir/gomuks) 
+
+[iamb - matrix client with vi bindings](http://iamb.chat) 
+
+### Media
+
+[spofity-tui - Spotify for the terminal](https://github.com/Rigellute/spotify-tui
+) 
+
+[youtube-tui - Youtube for the terminal](https://github.com/Siriusmart/youtube-tui
+)
+
+[jellycli - Jellyfin terminal client](https://github.com/tryffel/jellycli)
+
+[SonicLair.Net - music client for subsonic](https://github.com/thelinkin3000/SonicLair.Net)
+
+
+
+
+
+### CyberSecurity
 
 ### Games
 
