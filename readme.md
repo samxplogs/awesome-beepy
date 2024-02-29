@@ -1,4 +1,3 @@
-<div align="center">
 
 <!-- image banner -->
 <hr>
