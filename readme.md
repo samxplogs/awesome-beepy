@@ -31,10 +31,13 @@ Build by SQFMI x Beepy
 
 [Documentation](https://github.com/sqfmi/beepy-docs)
 
-<!-- ## OS Images
+## OS Images
 
-[Adapted descriptions of OS Images suitable for Beepy, similar to those listed for Raspberry Pi]
--->
+[Official OS image](https://github.com/ardangelo/beepy-gen/releases/)
+
+[postmarketOS wiki page for beepy](https://github.com/adamthiede/beepy-apkbuilds)
+
+[Alpine Linux package repo for beepy software](https://github.com/adamthiede/beepy-apkbuilds)
 
 ## Tools
 
